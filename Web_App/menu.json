@@ -1,0 +1,40 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "title": "Alur chop",
+      "price": "10.00",
+      "inventory": 20
+    },
+    {
+      "id": 2,
+      "title": "Beguni",
+      "price": "10.00",
+      "inventory": 15
+    },
+    {
+      "id": 3,
+      "title": "Coke",
+      "price": "51.00",
+      "inventory": 10
+    },
+    {
+      "id": 4,
+      "title": "Fried Chicken",
+      "price": "12.00",
+      "inventory": 25
+    },
+    {
+      "id": 5,
+      "title": "Tea",
+      "price": "7.00",
+      "inventory": 30
+    },
+    {
+      "id": 6,
+      "title": "Beer",
+      "price": "7.00",
+      "inventory": 35
+    }
+  ]
+}
